@@ -1,0 +1,6 @@
+C:\Docs\Rider\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Docs\Rider\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Docs\Rider\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+C:\Docs\Rider\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Docs\Rider\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Docs\Rider\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
